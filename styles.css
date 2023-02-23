@@ -1,0 +1,20 @@
+h1 {
+    font-size: 6em;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+
+}
+
+.movie {
+    color: red
+}
+
+.night {
+    color: green
+}
+
+.club {
+    color: blue
+}
